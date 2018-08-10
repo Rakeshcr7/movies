@@ -276,7 +276,7 @@ button {
 }
 
 .footer {
-	position: absolute;
+	position: fixed;
 	background: #ffdb58;
 	padding-top: 30px;
 	padding-bottom: 30px;
